@@ -8,7 +8,7 @@ Here on my GitHub profile you can see some of my projects and studies.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasacDEV)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasacDEV)](https://github.com/LucasacDEV/github-readme-stats)
 
 ## technologies I use and study : 
 
